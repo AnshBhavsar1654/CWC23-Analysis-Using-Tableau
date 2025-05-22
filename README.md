@@ -35,6 +35,12 @@ The dashboard provides an in-depth look at:
 
 Ensure the CSV files remain in the same directory as the `.twbx` file to avoid broken data sources (if applicable).
 
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](Preview.png)
+
+
 ## 📜 License
 
 This project is released under the MIT License.
